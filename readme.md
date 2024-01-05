@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 im currently learning JAvaScript <br>🌱 im currently learning HTML,NGINX,JAVA,CSS <br>🤝 I’m looking for help with *<br>💬 Ask me about *
+🔭 im currently learning JavaScript <br>🌱 im currently learning HTML,NGINX,JAVA,CSS <br>🤝 I’m looking for help with *<br>💬 Ask me about *
 
 
 
